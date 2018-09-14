@@ -1,0 +1,48 @@
+/* Global */
+* {
+    /* #2 #font #faces */
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    /* #2 #colorful #background */
+    background-color: #F5F5F5;
+}
+
+button {
+    /* #2 #colourful #plusfive */
+    background-color: #CDDC39;
+    color: black;
+    /* #2 #font capital #letters */
+    text-transform: uppercase;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: white;
+    
+}
+
+
+/* App bar */
+h1 {
+    /* #2 #colourful #app-bar */
+    background-color: #3F51B5;
+    color: white;
+}
+
+/* Channels list */
+li {
+    background-color: white;
+    list-style-type: none;
+}
+
+/* Tab bar */
+#tab-bar {
+    background-color: white;
+}
+/* Messages */
